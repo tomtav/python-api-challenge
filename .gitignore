@@ -100,7 +100,8 @@ celerybeat-schedule
 # Environments
 .env
 .venv
-.config.py
+config.py
+*-starter.*
 env/
 venv/
 ENV/
