@@ -11,7 +11,7 @@ Here I visualize the weather of 500+ cities across the world of varying distance
 
 2. It seems that the northern hemisphere is warmer during this time of year than the southern hemisphere.
 
-3. There doesn't seem to be any signification coorelation between cloudiness and latitude, but there is definitely a positive correlation between wind speeds and latitude.
+3. There doesn't seem to be any significant correlation between cloudiness and latitude, but there is definitely a positive correlation between wind speeds and latitude.
 
 ---
 ### Copyright
